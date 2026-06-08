@@ -31,6 +31,7 @@ Collaborated with team members to design and implement an automated home control
 * Home Automation Systems
 
 ## screenshot image
+!<img width="896" height="556" alt="image" src="https://github.com/user-attachments/assets/60facd62-ccb3-4aaf-9b82-d7998c9bcb3a" />
 
 
 ## Author
